@@ -1,6 +1,6 @@
 # Getting and Cleaning Data: Week 4 Project for Coursera JHU Getting and Cleaning Data Class
 
-#### This repository is a cdwimer submission for Getting and Cleaning Data course project. It contains instructions detailing how to run analysis on the Human Activity Recognition Using Smartphones dataset.
+#### This repository is a submission for Getting and Cleaning Data course project. It contains instructions detailing how to run analysis on the Human Activity Recognition Using Smartphones dataset.
 
 ## Dataset
 [Human Activity Recognition Using Smartphones](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) obtained from the following website:
