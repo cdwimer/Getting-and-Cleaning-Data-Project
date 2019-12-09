@@ -1,6 +1,6 @@
 # Code Book
 
-#### The final summary tidy dataset "tidydata.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
+#### The final summary tidy dataset "final_data.txt" contains the average of each variable for each activity and each subject from the Human Activity Recognition Using Smartphones Data Set
 
 ## Description
 
@@ -10,13 +10,13 @@ Data in dataset contains 180 rows and 88 columns for:
     •std: Standard deviation
 
 ## Identifiers
-The base data is grouped by the following values to build mean value and the standard deviation:
+The base data is grouped by the following values to build mean and standard deviation:
 
     •subject - The ID of the test subject numbered sequentially from 1 to 30
     •activity - The type of activity performed when the corresponding measurements were taken
 
 ## Activity
-Activity column has 6 types as listed below:
+Activity column has 6 value types as listed below:
 
     1.WALKING
     2.WALKING_UPSTAIRS
