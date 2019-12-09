@@ -7,17 +7,16 @@
 Data in dataset contains 180 rows and 88 columns for:
 
     •mean: Mean value
-
     •std: Standard deviation
 
 ## Identifiers
-The base data is grouped by the following values to build mean value and the standard deviation
+The base data is grouped by the following values to build mean value and the standard deviation:
 
-    •subject - The ID of the test subject
+    •subject - The ID of the test subject numbered sequentially from 1 to 30
     •activity - The type of activity performed when the corresponding measurements were taken
 
 ## Activity
-The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 types as listed below.
+Activity column has 6 types as listed below:
 
     1.WALKING
     2.WALKING_UPSTAIRS
@@ -26,7 +25,7 @@ The 30 subject are numbered sequentially from 1 to 30. Activity column has 6 typ
     5.STANDING
     6.LAYING
 
-Measurements of the tidy dataset
+## Measurements of the tidy dataset
     1.	subject
     2.	activity
     3.	TimeBodyAccelerometer.mean...X 
